@@ -14,3 +14,7 @@ RO is a collection of relations intended primarily for standardization across on
 
  * Browse on OLS: [OLS](https://www.ebi.ac.uk/ols/ontologies/ro) (click properties tab)
  * Browse on OntoBee: [OntoBee](http://www.ontobee.org/ontology/RO)
+
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTilx9FrYETX3IJkk3YWZ5KlfPnevE2DNWgnVDZG88TmQEFPfT5NcvA0kY8QrNCfku2dTzVxDf1cjQj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
